@@ -1,77 +1,113 @@
-<h1 align="center">Hi 👋, I'm Pradeepa Lakruwan</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Backend & Full Stack Software Engineer from Sri Lanka 🇱🇰
-</h3>
+<img src="assets/galaxy-banner.gif" width="100%" alt="Galaxy Banner"/>
 
-<p align="center">
-Building scalable software • Cloud Architect • Mobile Apps • Automation • AI Integrations
+# Hi there 👋 I'm Pradeepa Lakruwan
+
+### Senior Software Engineer | Backend Engineer | Cloud & AWS | Mobile Developer
+
+<p>
+Building scalable software, cloud-native systems, automation platforms, and mobile applications.
+</p>
+
+<p>
+<a href="https://github.com/dewapathi">
+<img src="https://img.shields.io/github/followers/dewapathi?label=Followers&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=dewapathi&style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a software engineer from **Sri Lanka 🇱🇰** passionate about designing scalable software that solves real business problems.
+
+My primary expertise is building high-performance backend systems with **Python & Django**, while also creating modern web and mobile applications using React and React Native.
+
+I enjoy designing clean architectures, building cloud infrastructure, automating business processes, and continuously learning new technologies.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=typescript"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=dart"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Backend
 
-I'm a software engineer passionate about designing scalable systems and solving real-world business problems.
+<p>
 
-I specialize in backend engineering using **Python & Django**, while also building modern web and mobile applications with **React**, **React Native**, and cloud-native technologies.
+<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-My interests extend beyond coding into:
-
-- 🏗 Software Architecture
-- ☁️ AWS Cloud
-- 🤖 AI & Automation
-- 📱 Mobile Development
-- 🔐 Secure API Design
-- ⚡ Performance Optimization
-- 🚀 DevOps & CI/CD
-
-I enjoy transforming complex business requirements into reliable, maintainable software.
+</p>
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,html,css,bash" />
+
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=redux"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
 </p>
 
-### Backend
+---
+
+## Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,fastapi" />
+
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
 </p>
 
-### Frontend
+---
+
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=redis"/>
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
 </p>
 
-### Mobile
+---
+
+## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter" />
-</p>
 
-### Database
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=nginx"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 </p>
 
 ---
@@ -80,46 +116,30 @@ I enjoy transforming complex business requirements into reliable, maintainable s
 
 ## 📱 Lifora
 
-An advanced personal productivity platform.
+A smart productivity application that helps users manage everyday life.
 
-Features include:
+### Features
 
-- Voice Reminders
-- Medicine Reminder
-- Vehicle Cost Tracking
-- Expense Management
-- Budget Planning
-- PDF Reports
-- Smart Notifications
-- Cross-platform Mobile App
+- 💊 Medicine Reminders
+- 🎙 Voice Reminders
+- 💰 Expense Tracking
+- 📊 Budget Planning
+- 🚗 Vehicle Cost Management
+- 📄 PDF Reports
+- 🔔 Smart Notifications
 
-🔗 Google Play
+Google Play
 
 https://play.google.com/store/apps/details?id=com.lifora.app
 
 ---
 
-## 🛒 E-Commerce Platform
-
-Modern full-stack commerce solution featuring
-
-- Django REST Framework
-- React
-- AWS
-- Stripe / PayHere
-- Inventory Management
-- Order Management
-- Admin Dashboard
-
----
-
 ## 🐶 Veterinary DNA Platform
 
-Enterprise platform for genetic testing and breeder management.
-
-Built using
+Enterprise-scale genetic testing platform.
 
 - Django
+- Django REST Framework
 - PostgreSQL
 - AWS
 - Docker
@@ -128,82 +148,111 @@ Built using
 
 ---
 
+## 🛒 E-Commerce Platform
+
+Modern cloud-based commerce platform.
+
+- Django
+- React
+- PostgreSQL
+- AWS
+- PayHere
+- Stripe
+- Docker
+
+---
+
 # 🌱 Currently Learning
 
 - System Design
 - Distributed Systems
 - Kubernetes
-- Microservices
-- Event Driven Architecture
+- Event-Driven Architecture
 - AI Agents
 - Machine Learning
+- Cloud Security
 
 ---
 
-# 💼 What I Enjoy Building
+# 📊 GitHub Analytics
 
-✅ Enterprise Applications
+<div align="center">
 
-✅ SaaS Platforms
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dewapathi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✅ REST APIs
+<img height="170" src="https://streak-stats.demolab.com?user=dewapathi&theme=tokyonight&hide_border=true"/>
 
-✅ Mobile Applications
-
-✅ Cloud Infrastructure
-
-✅ Business Automation
-
-✅ AI Powered Systems
+</div>
 
 ---
 
-# 📈 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewapathi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dewapathi&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dewapathi&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# 💼 Areas of Interest
+
+- Backend Engineering
+- Software Architecture
+- AWS Cloud
+- REST APIs
+- Microservices
+- Mobile Development
+- DevOps
+- Artificial Intelligence
+- Automation Systems
+- High Performance Systems
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dewapathi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dewapathi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewapathi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://github.com/dewapathi">
-GitHub
-</a>
+<a href="https://github.com/dewapathi">GitHub</a>
 
 •
 
-<a href="https://www.linkedin.com/">
-LinkedIn
-</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
 
 •
 
-<a href="mailto:your@email.com">
-Email
-</a>
+<a href="mailto:YOUR_EMAIL">Email</a>
 
 </p>
 
 ---
 
-# 💡 Philosophy
+<div align="center">
 
-> "Write software that is simple today, scalable tomorrow, and maintainable forever."
+### 💡 Philosophy
 
----
+> **"Build software that remains simple today, scalable tomorrow, and maintainable for years."**
 
 ⭐ Thanks for visiting my profile!
+
+</div>
