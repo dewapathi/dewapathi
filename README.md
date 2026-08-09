@@ -1,17 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff0080,100:00d4ff&height=280&section=header&text=Pradeepa%20Lakruwan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Web%20%26%20Mobile%20%C2%B7%20Python%2FDjango%20%C2%B7%20AWS&descAlignY=52&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pradeepa%20Lakruwan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20Web%20%26%20Mobile%20%7C%20Python%20%2F%20Django%20%7C%20AWS&descAlignY=55&descSize=16"/>
 
 <a href="https://github.com/dewapathi">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=50&lines=3%2B+years+building+production+Full-Stack+systems;Building+Web+%2B+Android+%2B+iOS+applications;Python+%2F+Django+%2B+React+%2F+Next.js+%2B+React+Native;Designing+scalable+cloud+architecture+on+AWS;Cut+API+latency+60%25%2B+with+Redis+%2B+Celery"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&height=55&lines=Full-Stack+Software+Engineer;Building+Web+%26+Mobile+Applications;React+%2F+Next.js+%2F+React+Native;Python+%2F+Django+%2F+Django+REST+Framework;Building+Scalable+Cloud+Systems+on+AWS"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/dewapathi"><img src="https://img.shields.io/github/followers/dewapathi?label=Followers&style=for-the-badge&color=ff0080&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dewapathi">
+  <img src="https://img.shields.io/github/followers/dewapathi?label=Followers&style=for-the-badge&color=ff0080&logo=github&logoColor=white"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=dewapathi&style=for-the-badge&color=00d4ff&label=Profile+Views"/>
-<a href="https://linkedin.com/in/pradeepa-lakruwan"><img src="https://img.shields.io/badge/LinkedIn-Connect-8000ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pradeepalakruwan.d@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-39ff14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/></a>
+
+<a href="https://linkedin.com/in/pradeepa-lakruwan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8000ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pradeepalakruwan.d@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-39ff14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
+</a>
 
 </div>
 
@@ -191,6 +200,7 @@ class Pradeepa:
 
 <details>
 <summary><b>Show role highlights</b></summary>
+
 <br/>
 
 - Architected and scaled **Django REST Framework APIs** powering business-critical workflows across multiple client platforms, cutting response latency **60%+** through Redis caching and Celery-based async task offloading.
@@ -210,12 +220,12 @@ class Pradeepa:
 
 ## 🌟 Key Projects
 
-### 🧬 Breeder Stats API — Orivet Breeder Statistics Platform (v3 Rebuild)
+### 🧬 Breeder Stats API — Orivet Breeder Statistics Platform
 
 <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/DRF-ff0080?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL/Aurora-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%2FAurora-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -223,12 +233,13 @@ class Pradeepa:
 
 <details>
 <summary><b>Show details</b></summary>
+
 <br/>
 
 - Designed and built a Django REST Framework backend delivering **45+ REST endpoints** across 6 domain modules — accounts, billing, catalog, stats, maf, and common — for a genetics analytics SaaS product.
 - Architected a **strangler-fig migration** using a custom Django database router that splits traffic across a new primary database, read-only legacy production database, and optional read replica.
 - Enabled migration away from legacy infrastructure without requiring application downtime.
-- Built a MySQL-backed **cache-aside layer with a 7-day TTL** for expensive statistical aggregations, avoiding the need for an additional Redshift dependency.
+- Built a MySQL-backed **cache-aside layer with a 7-day TTL** for expensive statistical aggregations.
 - Implemented **AWS Cognito JWT authentication with JWKS token verification** plus custom API-key gateway middleware.
 - Engineered a **multi-region Stripe billing system** supporting separate AU and USA merchant accounts through a provider/factory abstraction.
 - Containerized the application using Docker and deployed it to **AWS ECS Fargate**.
@@ -249,6 +260,7 @@ class Pradeepa:
 
 <details>
 <summary><b>Show details</b></summary>
+
 <br/>
 
 - Built and maintained backend services for a production animal-genetics SaaS platform, designing REST APIs consumed by web and mobile clients.
@@ -272,6 +284,7 @@ class Pradeepa:
 
 <details>
 <summary><b>Show details</b></summary>
+
 <br/>
 
 - Designed the backend architecture and PostgreSQL schema for a complete mobile commerce platform covering **catalog, cart, orders, and checkout**.
@@ -314,6 +327,7 @@ Built a full-stack student management platform covering:
 
 <details>
 <summary><b>Show details</b></summary>
+
 <br/>
 
 - Built a webhook-triggered pipeline where **Claude Sonnet** analyzes production errors and automatically drafts a Bitbucket pull request containing root-cause analysis and a fix plan.
@@ -422,9 +436,17 @@ Features include:
 
 <div align="center">
 
-<a href="https://github.com/dewapathi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pradeepa-lakruwan"><img src="https://img.shields.io/badge/LinkedIn-8000ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pradeepalakruwan.d@gmail.com"><img src="https://img.shields.io/badge/Email-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/dewapathi">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pradeepa-lakruwan">
+  <img src="https://img.shields.io/badge/LinkedIn-8000ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pradeepalakruwan.d@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -442,4 +464,4 @@ Features include:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:ff0080,100:0f0c29&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
