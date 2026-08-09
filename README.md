@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff0080,100:00d4ff&height=280&section=header&text=Pradeepa%20Lakruwan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Software%20Engineer%20%C2%B7%20Python%2FDjango%20%C2%B7%20AWS%20Cloud%20Architecture&descAlignY=52&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff0080,100:00d4ff&height=280&section=header&text=Pradeepa%20Lakruwan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Web%20%26%20Mobile%20%C2%B7%20Python%2FDjango%20%C2%B7%20AWS&descAlignY=52&descSize=17"/>
 
 <a href="https://github.com/dewapathi">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=50&lines=3%2B+years+building+production+Django+%2F+DRF+APIs+on+AWS;Cut+API+latency+60%25%2B+with+Redis+%2B+Celery;Shipping+AI-assisted+dev+tooling+with+the+Claude+API"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=50&lines=3%2B+years+building+production+Full-Stack+systems;Building+Web+%2B+Android+%2B+iOS+applications;Python+%2F+Django+%2B+React+%2F+Next.js+%2B+React+Native;Designing+scalable+cloud+architecture+on+AWS;Cut+API+latency+60%25%2B+with+Redis+%2B+Celery"/>
 </a>
 
 <br/>
@@ -21,21 +21,57 @@
 
 ## 🚀 About Me
 
-Backend-focused software engineer from **Sri Lanka 🇱🇰** with 3+ years of production experience building and scaling **Python/Django REST APIs on AWS**. I delivered a genetics-SaaS platform with 45+ REST endpoints, architected a zero-downtime legacy-database migration using a custom strangler-fig router, and cut API latency 60%+ through Redis caching and Celery async task offloading.
+Full-Stack Software Engineer from **Sri Lanka 🇱🇰** with **3+ years of production experience** building complete software solutions across **web, mobile, backend, databases, cloud infrastructure, and CI/CD**.
 
-I'm comfortable owning services end-to-end — API design, PostgreSQL/MySQL schema design, authentication (Cognito/JWT), multi-provider payment integrations (Stripe, Square, PayPal, PayHere), containerization (Docker/ECS/Fargate), and CI/CD (CodeBuild/CodePipeline, GitHub Actions). I also bring hands-on experience building AI-assisted engineering tooling on the **Anthropic Claude API** — automated error triage and code-fix generation — directly relevant to AI-first, automation-driven teams.
+I work across the full software development lifecycle — from designing scalable backend architectures and REST APIs with **Python, Django, and Django REST Framework**, to building modern web interfaces with **React and Next.js** and cross-platform **Android & iOS applications with React Native**.
+
+On the backend and cloud side, I have hands-on production experience with **PostgreSQL, MySQL, Redis, Celery, Docker, AWS ECS/Fargate, Lambda, SQS, EventBridge, Step Functions, Cognito, RDS, S3, CloudFront, and CI/CD pipelines**.
+
+I've delivered production systems including a genetics SaaS platform with **45+ REST endpoints**, architected a **zero-downtime legacy database migration**, and reduced API latency by **60%+** using Redis caching and Celery-based asynchronous processing.
+
+I'm comfortable owning products end-to-end — **UI development, mobile applications, API design, database architecture, authentication, payments, cloud infrastructure, deployment, monitoring, and production optimization**.
+
+I also have hands-on experience building **AI-assisted engineering automation** using the Anthropic Claude API, including automated production error analysis and code-fix generation.
 
 ```python
 class Pradeepa:
     def __init__(self):
-        self.role = "Backend Software Engineer"
-        self.location = "Sri Lanka 🇱🇰"
+        self.role = "Full-Stack Software Engineer"
         self.experience = "3+ years"
-        self.stack = ["Python", "Django", "DRF", "AWS", "PostgreSQL", "Redis", "Celery"]
-        self.currently_learning = ["System Design", "Kubernetes", "AI Agents"]
+        self.location = "Sri Lanka 🇱🇰"
+
+        self.specialties = [
+            "Web Development",
+            "Mobile Development",
+            "Backend Engineering",
+            "Cloud Architecture",
+            "DevOps & CI/CD",
+        ]
+
+        self.stack = [
+            "Python",
+            "Django",
+            "Django REST Framework",
+            "React",
+            "Next.js",
+            "React Native",
+            "TypeScript",
+            "PostgreSQL",
+            "Redis",
+            "Celery",
+            "Docker",
+            "AWS",
+        ]
+
+        self.currently_learning = [
+            "System Design",
+            "Kubernetes",
+            "Distributed Systems",
+            "AI Agents",
+        ]
 
     def say_hi(self):
-        return "Thanks for stopping by — let's build something scalable 🚀"
+        return "Let's build something scalable 🚀"
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:ff0080&height=3"/>
@@ -44,42 +80,84 @@ class Pradeepa:
 
 <div align="center">
 
-**Languages**
-<br/>
+### Languages
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,dart"/>
 
+<br/>
+
+### Frontend & Web
+
+**React · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · Responsive UI**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind"/>
+
 <br/><br/>
 
-**Backend & APIs** — Django · DRF · FastAPI · Node.js · Express.js · Celery · Microservices · Service-Layer / Clean Architecture
+### Mobile Development
+
+**React Native · Expo · Android · iOS · Firebase · Push Notifications**
+
 <br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express"/>
+
+<img src="https://skillicons.dev/icons?i=react,firebase,androidstudio"/>
 
 <br/><br/>
 
-**Cloud (AWS)** — Lambda · ECS/Fargate · ECR · EC2 · S3 · RDS · RDS Proxy · DynamoDB · API Gateway · Step Functions · Secrets Manager · IAM · WAF · Route53 · CloudFront · Amplify · CloudWatch · X-Ray · CodeBuild/CodePipeline
+### Backend & APIs
+
+**Python · Django · Django REST Framework · FastAPI · Node.js · Express.js · Celery · REST APIs · Microservices · Clean Architecture**
+
 <br/>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express"/>
+
+<br/><br/>
+
+### Cloud — AWS
+
+**Lambda · ECS/Fargate · ECR · EC2 · S3 · RDS · RDS Proxy · DynamoDB · API Gateway · Step Functions · Secrets Manager · IAM · WAF · Route53 · CloudFront · Amplify · CloudWatch · X-Ray · CodeBuild · CodePipeline**
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=aws"/>
 
 <br/><br/>
 
-**Databases** — PostgreSQL · MySQL/Aurora · MongoDB · DynamoDB · Redis · SQLite
+### Databases & Caching
+
+**PostgreSQL · MySQL/Aurora · MongoDB · DynamoDB · Redis · SQLite**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
 
 <br/><br/>
 
-**Messaging & Async** — SQS · SNS · EventBridge · Celery background tasks · webhook-driven automation
+### Messaging & Async Processing
+
+**AWS SQS · SNS · EventBridge · Celery · Background Tasks · Webhooks · Event-Driven Architecture**
 
 <br/><br/>
 
-**DevOps & CI/CD** — Docker · GitHub Actions · Jenkins · AWS CodeBuild/CodePipeline · Terraform · immutable image tagging · zero-downtime deployment
+### DevOps & CI/CD
+
+**Docker · GitHub Actions · Jenkins · AWS CodeBuild/CodePipeline · Terraform · Linux · Nginx · ECS/Fargate · Zero-Downtime Deployment**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,terraform,linux,nginx"/>
 
 <br/><br/>
 
-**Payments** — Stripe (multi-account/region) · Square · PayPal · PayHere
+### Payments
+
+**Stripe · Square · PayPal · PayHere**
+
 <br/>
+
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Square-3E4348?style=flat-square&logo=square&logoColor=white"/>
 <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white"/>
@@ -87,21 +165,21 @@ class Pradeepa:
 
 <br/><br/>
 
-**Auth & Security** — AWS Cognito (JWT/JWKS) · IAM roles · API-key gateway middleware · RBAC · Secrets Manager · WAF
+### Authentication & Security
+
+**AWS Cognito · JWT/JWKS · IAM · RBAC · API Keys · Secrets Manager · WAF**
 
 <br/><br/>
 
-**Monitoring & Reliability** — CloudWatch · X-Ray · Sentry-driven error-triage automation
+### Monitoring & Reliability
+
+**AWS CloudWatch · X-Ray · Sentry · Automated Error Triage**
 
 <br/><br/>
 
-**Frontend & Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,flutter"/>
+### Integrations
 
-<br/><br/>
-
-**Other Integrations** — Firebase Cloud Messaging · Twilio SMS · WebSockets (Socket.IO)
+**Firebase Cloud Messaging · Twilio SMS · WebSockets / Socket.IO · Payment Gateways · REST APIs · Webhooks**
 
 </div>
 
@@ -115,13 +193,16 @@ class Pradeepa:
 <summary><b>Show role highlights</b></summary>
 <br/>
 
-- Architected and scaled Django REST Framework APIs powering business-critical workflows across multiple client platforms, cutting response latency **60%+** through Redis caching and Celery-based async task offloading.
-- Designed event-driven, serverless AWS architectures (Lambda, SQS, EventBridge, Step Functions) for asynchronous email and workflow processing, removing server-management overhead and improving fault tolerance through automatic retries.
-- Containerized services with Docker and deployed to AWS ECS/ECR/Fargate; built CI/CD pipelines with GitHub Actions and AWS CodePipeline, achieving zero-downtime releases.
-- Engineered secure payment processing by integrating Stripe, Square, and PayHere into live platforms handling real-money transactions.
-- Implemented authentication and access control using AWS Cognito, IAM roles, and Secrets Manager; administered PostgreSQL and multi-database architectures.
-- Delivered a React Native mobile commerce application (Android & iOS) end-to-end, including Firebase push notification integration.
-- Operated within Agile/Scrum teams, running sprint planning and peer code reviews across cross-functional delivery.
+- Architected and scaled **Django REST Framework APIs** powering business-critical workflows across multiple client platforms, cutting response latency **60%+** through Redis caching and Celery-based async task offloading.
+- Designed event-driven, serverless AWS architectures using **Lambda, SQS, EventBridge, and Step Functions** for asynchronous email and workflow processing.
+- Containerized production services using **Docker** and deployed them to **AWS ECS/ECR/Fargate**.
+- Built automated CI/CD pipelines using **GitHub Actions and AWS CodePipeline**, supporting reliable zero-downtime releases.
+- Engineered secure payment processing by integrating **Stripe, Square, PayPal, and PayHere** into production platforms.
+- Implemented authentication and access control using **AWS Cognito, JWT, IAM roles, and Secrets Manager**.
+- Designed and administered **PostgreSQL, MySQL, and multi-database architectures**.
+- Delivered a **React Native mobile commerce application for Android & iOS** end-to-end, including Firebase push notifications.
+- Worked across backend, mobile, cloud, database, and deployment layers throughout the complete software delivery lifecycle.
+- Collaborated within Agile/Scrum teams through sprint planning, architecture discussions, code reviews, testing, and production delivery.
 
 </details>
 
@@ -144,13 +225,16 @@ class Pradeepa:
 <summary><b>Show details</b></summary>
 <br/>
 
-- Designed and built a Django REST Framework backend delivering **45+ REST endpoints** across 6 domain modules (accounts, billing, catalog, stats, maf, common) for a genetics-analytics SaaS product.
-- Architected a **strangler-fig migration** using a custom Django database router that splits traffic across a new primary database, a read-only legacy production database, and an optional read replica — enabling zero-downtime migration off legacy infrastructure.
-- Built a MySQL-backed cache-aside layer (7-day TTL) for expensive statistical aggregations — a deliberate cost-optimization that avoided introducing AWS Redshift.
-- Implemented AWS Cognito JWT authentication (JWKS token verification) plus a custom API-key gateway middleware as a second security layer across all routes.
-- Engineered a multi-region Stripe billing system (separate AU/USA merchant accounts via a provider/factory abstraction) with independent subscription, payment-method, and webhook handling.
-- Containerized the service with Docker and deployed to AWS ECS Fargate with an automated CI/CD pipeline (CodeBuild/CodePipeline) using immutable Git-SHA image tagging to ECR.
-- Delivered admin analytics tooling (revenue and subscription dashboards) via Django ORM aggregations; maintained automated test coverage across a **~9,600-line, 29-model codebase**.
+- Designed and built a Django REST Framework backend delivering **45+ REST endpoints** across 6 domain modules — accounts, billing, catalog, stats, maf, and common — for a genetics analytics SaaS product.
+- Architected a **strangler-fig migration** using a custom Django database router that splits traffic across a new primary database, read-only legacy production database, and optional read replica.
+- Enabled migration away from legacy infrastructure without requiring application downtime.
+- Built a MySQL-backed **cache-aside layer with a 7-day TTL** for expensive statistical aggregations, avoiding the need for an additional Redshift dependency.
+- Implemented **AWS Cognito JWT authentication with JWKS token verification** plus custom API-key gateway middleware.
+- Engineered a **multi-region Stripe billing system** supporting separate AU and USA merchant accounts through a provider/factory abstraction.
+- Containerized the application using Docker and deployed it to **AWS ECS Fargate**.
+- Built an automated **CodeBuild/CodePipeline CI/CD pipeline** using immutable Git-SHA image tagging in ECR.
+- Delivered admin analytics tooling for revenue and subscription dashboards using Django ORM aggregations.
+- Maintained automated testing across a **~9,600-line, 29-model codebase**.
 
 </details>
 
@@ -168,14 +252,16 @@ class Pradeepa:
 <br/>
 
 - Built and maintained backend services for a production animal-genetics SaaS platform, designing REST APIs consumed by web and mobile clients.
-- Implemented authentication/authorization and hardened API endpoints against common attack vectors.
-- Integrated three payment providers (Stripe, Square, PayPal) into a single billing flow alongside AWS SES transactional email and Firebase push notifications.
+- Implemented authentication and authorization while hardening API endpoints against common attack vectors.
+- Integrated **Stripe, Square, and PayPal** into a unified billing flow.
+- Integrated **AWS SES** for transactional email and **Firebase** for push notifications.
 - Customized Django Signals to drive asynchronous background processing and report generation without blocking request/response cycles.
-- Optimized database queries and backend performance, collaborating with frontend and mobile teams through production deployment.
+- Optimized database queries and backend performance.
+- Collaborated with frontend and mobile development throughout production delivery and deployment.
 
 </details>
 
-### 🚗 Vehicle Spare Parts E-Commerce Platform (M-Auto-Zone)
+### 🚗 Vehicle Spare Parts E-Commerce Platform — M-Auto-Zone
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/DRF-ff0080?style=flat-square"/>
@@ -188,9 +274,13 @@ class Pradeepa:
 <summary><b>Show details</b></summary>
 <br/>
 
-- Designed the backend architecture and PostgreSQL schema for a full mobile commerce platform (catalog, cart, orders, checkout).
-- Built REST APIs and a Django Admin interface for product/order/banner management, with JWT authentication for API access control.
-- Integrated the PayHere payment gateway for real-money checkout and Firebase Cloud Messaging for push notifications.
+- Designed the backend architecture and PostgreSQL schema for a complete mobile commerce platform covering **catalog, cart, orders, and checkout**.
+- Built REST APIs using **Django REST Framework**.
+- Developed Django Admin tooling for product, order, and banner management.
+- Implemented JWT-based authentication and API access control.
+- Integrated the **PayHere payment gateway** for production checkout.
+- Integrated **Firebase Cloud Messaging** for mobile push notifications.
+- Delivered the mobile application using **React Native for Android & iOS**.
 - Managed production deployment on cPanel hosting.
 
 </details>
@@ -203,9 +293,19 @@ class Pradeepa:
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
 
-Built the complete backend for a student management platform: authentication, attendance tracking, academic records, role-based access control, dashboard analytics, and Stripe payment integration.
+Built a full-stack student management platform covering:
 
-### 🤖 AI-Powered Developer Automation System (Sentry AutoFix + DevAssist)
+- Authentication and authorization
+- Student and academic record management
+- Attendance tracking
+- Role-based access control
+- Dashboard analytics
+- Stripe payment integration
+- Django/DRF backend APIs
+- Next.js web application
+- PostgreSQL database architecture
+
+### 🤖 AI-Powered Developer Automation System — Sentry AutoFix + DevAssist
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
@@ -216,9 +316,11 @@ Built the complete backend for a student management platform: authentication, at
 <summary><b>Show details</b></summary>
 <br/>
 
-- Built a webhook-triggered pipeline where **Claude Sonnet** analyzes production errors and auto-drafts a Bitbucket pull request with root-cause analysis and a fix plan.
-- Designed a multi-model cost-optimization strategy — cheaper **Haiku** for file discovery, more capable **Sonnet** for code generation — with structured tool use (typed JSON schemas) replacing fragile regex parsing.
-- Built security-first data handling: middleware strips `.env` files, `settings.py`, and credential patterns before any code reaches the LLM; all output is draft-only (no auto-merge).
+- Built a webhook-triggered pipeline where **Claude Sonnet** analyzes production errors and automatically drafts a Bitbucket pull request containing root-cause analysis and a fix plan.
+- Designed a multi-model cost optimization strategy using **Haiku for file discovery** and **Sonnet for code generation**.
+- Used structured tool calls with typed JSON schemas instead of fragile regex-based parsing.
+- Built security-first data handling where middleware removes `.env` files, `settings.py`, and credential patterns before source code reaches the LLM.
+- Designed the system so generated output remains draft-only with **no automatic merge into production**.
 
 </details>
 
@@ -226,8 +328,19 @@ Built the complete backend for a student management platform: authentication, at
 
 ## 📱 Personal Project
 
-### [Lifora](https://play.google.com/store/apps/details?id=com.lifora.app)
-A smart productivity application that helps users manage everyday life — medicine & voice reminders, expense tracking, budget planning, vehicle cost management, PDF reports, and smart notifications.
+### 🚀 [Lifora](https://play.google.com/store/apps/details?id=com.lifora.app)
+
+A smart productivity mobile application designed to help users manage everyday life from one place.
+
+Features include:
+
+- 💊 Medicine reminders
+- 🎙️ Voice reminders
+- 💰 Expense tracking
+- 📊 Budget planning
+- 🚗 Vehicle cost management
+- 📄 PDF reports
+- 🔔 Smart notifications
 
 <img src="https://img.shields.io/badge/Google_Play-Live-39ff14?style=flat-square&logo=googleplay&logoColor=white"/>
 
@@ -235,24 +348,33 @@ A smart productivity application that helps users manage everyday life — medic
 
 ## 🏆 Key Achievements
 
-- **60%+ API latency reduction** via Redis caching and Celery async offloading in production Django services.
-- Delivered **45+ REST endpoints** across a 6-module Django platform, including a zero-downtime custom-router migration off a legacy production database.
-- Built multi-provider, multi-region payment infrastructure (Stripe AU/USA, Square, PayPal, PayHere) processing real-money transactions.
-- Reduced infrastructure cost by replacing a would-be Redshift dependency with a MySQL cache-aside layer.
-- Shipped a production AI automation system (Anthropic Claude API) for automated error triage and code-fix drafting.
+- 🚀 Reduced production API latency by **60%+** using Redis caching and Celery async processing.
+- 🔌 Delivered **45+ production REST endpoints** across a six-module Django platform.
+- 🗄️ Architected a **zero-downtime legacy database migration** using a custom Django database router.
+- 💳 Built **multi-provider and multi-region payment infrastructure** using Stripe AU/USA, Square, PayPal, and PayHere.
+- ☁️ Designed and deployed production workloads using **AWS ECS/Fargate, Lambda, RDS, SQS, EventBridge, Step Functions, and other AWS services**.
+- 💰 Reduced infrastructure cost by replacing a potential Redshift dependency with a **MySQL cache-aside architecture**.
+- 📱 Delivered a production **React Native Android & iOS application**.
+- 🤖 Shipped an **AI-powered developer automation system** using the Anthropic Claude API for production error analysis and code-fix drafting.
+- 🔄 Built automated **CI/CD pipelines** supporting reliable production deployments.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:00d4ff&height=3"/>
 
 ## 🎓 Education
 
-- **BSc (Hons) Computer Science – Software Engineering** — CINEC Campus · University of Wolverhampton *(Second Class Upper Division)*
-- **Higher National Diploma (HND) – Information Technology** — Advanced Technological Institute *(Merit Pass · GPA 3.46)*
+- **BSc (Hons) Computer Science – Software Engineering**  
+  CINEC Campus · University of Wolverhampton  
+  *Second Class Upper Division*
+
+- **Higher National Diploma (HND) – Information Technology**  
+  Advanced Technological Institute  
+  *Merit Pass · GPA 3.46*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:ff0080&height=3"/>
 
 ## 🌱 Currently Learning
 
-System Design & Distributed Systems · Kubernetes & Event-Driven Architecture · AI Agents & Machine Learning · Cloud Security
+**System Design & Distributed Systems · Kubernetes · Event-Driven Architecture · AI Agents & Machine Learning · Cloud Security**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:00d4ff&height=3"/>
 
@@ -261,6 +383,7 @@ System Design & Distributed Systems · Kubernetes & Event-Driven Architecture ·
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=dewapathi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff0080&text_color=ffffff"/>
+
 <img height="165" src="https://streak-stats.demolab.com?user=dewapathi&theme=radical&hide_border=true&background=0d1117&ring=ff0080&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 <br/>
@@ -272,19 +395,25 @@ System Design & Distributed Systems · Kubernetes & Event-Driven Architecture ·
 ### 📈 Contribution Graph
 
 <div align="center">
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dewapathi&theme=react-dark&bg_color=0d1117&color=00d4ff&line=ff0080&point=ffffff&hide_border=true"/>
+
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
+
 <img width="100%" src="https://raw.githubusercontent.com/dewapathi/dewapathi/output/github-contribution-grid-snake.svg"/>
+
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=dewapathi&theme=radical&no-frame=true&column=7&margin-w=8"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:00d4ff&height=3"/>
@@ -303,7 +432,13 @@ System Design & Distributed Systems · Kubernetes & Event-Driven Architecture ·
 
 > **"Build software that remains simple today, scalable tomorrow, and maintainable for years."**
 
-⭐ Thanks for visiting my profile!
+### 👨‍💻 What I Build
+
+**Web Applications · Android & iOS Apps · Backend APIs · Cloud Systems · Production Infrastructure**
+
+<br/>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
 
